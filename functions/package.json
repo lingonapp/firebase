@@ -17,8 +17,8 @@
     "@types/jest": "^25.1.1",
     "@types/uuid": "^3.4.7",
     "dotenv": "^8.2.0",
-    "firebase-admin": "^8.9.2",
-    "firebase-functions": "^3.3.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "ts-jest": "^25.1.0",
     "uuid": "^3.4.0"
   },
